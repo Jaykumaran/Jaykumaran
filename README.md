@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jaykumaran.io">
-    <img src="[https://www.lambdatest.com/resources/images/news24.gif](https://github.com/Jaykumaran/Jaykumaran/blob/main/readmegif.gif)" alt="MasterHead">
+    <img src="https://github.com/Jaykumaran/Jaykumaran/blob/main/readmegif.gif" alt="MasterHead">
   </a>
 </p>
 <h1 align="right">Jaykumaran R ≽ܫ≼</h1>
