@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jaykumaran.io">
-    <img src="https://github.com/Jaykumaran/Jaykumaran/blob/main/readmeanimation.gif" alt="MasterHead">
+    <img src="https://github.com/Jaykumaran/Jaykumaran/blob/main/bnwanimation.gif" alt="MasterHead">
   </a>
 </p>
 <h1 align="right">Jaykumaran R ≽ܫ≼</h1>
