@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://jaykumaran.io">
-<!--     <img src="https://github.com/Jaykumaran/Jaykumaran/blob/main/bnwanimation.gif" alt="MasterHead"> -->
-  </a>
-</p>
+
 <h1 align="right">Jaykumaran R ≽ܫ≼</h1>
 <h3 align="right">❤️AI & Robotics Enthusiast🧑🏻‍💻</h3>
 <!-- <img align = "right" alt="Coding" width="400" src="https://s.yimg.com/ny/api/res/1.2/SgbY9M0ED4pTGQ7U6MaEnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM5NztjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fff63b50-0943-11ee-a9dd-649a2dab66a0"> -->
