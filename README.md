@@ -8,9 +8,6 @@
 
 - 💬 ** AI ,NeurosScience !** ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
 
-- 📫 **Life is Spontaneous Sequence of Randomness**
-
-- ⚡ **Just another Star Gazer**
 
 <h3 align="left">Connect :</h3>
 <p align="left">
