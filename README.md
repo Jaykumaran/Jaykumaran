@@ -12,7 +12,6 @@
 <h3 align="left">Connect :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jayakumaran-r17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jayakumaran-r17" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/jayakumaranr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jayakumaranr" height="30" width="40" /></a>
 </p>
 
 
