@@ -29,17 +29,6 @@ Deep Learning
   
 
 
-
-
-
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykumaran&show_icons=true&locale=en&layout=compact" alt="jaykumaran" style="flex: 1;">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykumaran&show_icons=true&locale=en" alt="jaykumaran" style="flex: 1;"> -->
- 
-</div>
-
 <!-- <img src="https://freight.cargo.site/t/original/i/38fa54e0c4e7d757054252850f4f5ea41e702d9fbaec5b9763d7781f57e79c7f/SylviaBoomerYang_helloworld4.gif" > -->
 <!-- <p align="center">
   <a href="https://jaykumaran.io">
