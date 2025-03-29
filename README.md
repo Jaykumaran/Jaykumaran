@@ -8,8 +8,32 @@
 
 - **Deep Learning 🐬🌊 Perception!** ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
+
+
+### Technical Articles [at] LearnOpenCV:
+
+GenAI and VLMs
+- [LightRAG](https://learnopencv.com/lightrag/)
+- [GraphRAG](https://learnopencv.com/author/jayakumaran/)
+- [Multimodal RAG with ColPali](https://learnopencv.com/multimodal-rag-with-colpali/)
+- [Molmo VLM](https://learnopencv.com/molmo-vlm/)
+
+Deep Learning
+- [Depth Pro](https://learnopencv.com/dust3r-geometric-3d-vision/)
+- [Training CLIP from Scratch](https://learnopencv.com/clip-model/)
+- [Small Object Detection with Faster RCNN](https://learnopencv.com/fine-tuning-faster-r-cnn/)
+
+3D Computer Vision
+- [3D U-Net](https://learnopencv.com/3d-u-net-brats/)
+- [MASt3R](https://learnopencv.com/mast3r-sfm-grounding-image-matching-3d/)
+- [DUSt3R](https://learnopencv.com/dust3r-geometric-3d-vision/)
+  
+
+
+
+
+
+
 
 <div style="display: flex; justify-content: space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykumaran&show_icons=true&locale=en&layout=compact" alt="jaykumaran" style="flex: 1;">
