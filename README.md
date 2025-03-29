@@ -7,7 +7,7 @@
 
 - **Deep Learning 🐬🌊 Perception!** ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
 
--- Currently learning GPUs<sup>zzz</sup> ⚡--
+-- Currently learning VLMs and GPUs<sup>zzz</sup> ⚡--
 
 ### Technical Articles [at] LearnOpenCV:
 
