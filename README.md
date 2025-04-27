@@ -9,7 +9,7 @@
 °Manifest at Nvidia ~
 
 
--- Currently learning VLMs and GPUs<sup>zzz</sup> ⚡ ||| to code better Python✌--
+-- Currently learning : SLAM, VLMs and GPUs<sup>zzz</sup> ⚡ | C++ | to code better Python✌--
 
 ### Technical Articles [at] LearnOpenCV:
 
