@@ -9,7 +9,7 @@
 °Manifest ~
 
 
--- Currently learning : SLAM, VLMs and GPUs<sup>zzz</sup> ⚡ | C++ | to code better Python✌--
+-- Currently learning : SLAM, VLMs and GPUs<sup>zzz</sup> ⚡ | C++ ✌--
 
 ### Technical Articles [at] LearnOpenCV:
 
