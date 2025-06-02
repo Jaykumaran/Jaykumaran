@@ -8,6 +8,8 @@
 - **💙 Deep Learning 🐬🌊 Perception!** ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
 °Manifest ~
 
+Portfolio: [Website](https://jaykumaran.github.io/)
+
 
 ### Technical Articles [at] LearnOpenCV:
 
